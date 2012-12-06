@@ -8,6 +8,6 @@ VKCrypt
 ========
 
 Для использования **VKCrypt** неоходимо создать 3 букмаклета:
-- Зашифровать [min/bookmarklets/encrypt.min.js]("//github.com/coderaiser/vk-crypt/raw/master/min/encrypt.min.js")
-- Росшировать (min/bookmarklets/decrypt.min.js)
-- Установить пароль (min/bookmarklets/setPassword.min.js)
+- Зашифровать [min/bookmarklets/encrypt.min.js](//github.com/coderaiser/vk-crypt/raw/master/min/bookmarlkets/encrypt.min.js)
+- Росшировать [min/bookmarklets/decrypt.min.js](//github.com/coderaiser/vk-crypt/raw/master/min/bookmarlkets/decrypt.min.js)
+- Установить пароль [min/bookmarklets/setPassword.min.js](//github.com/coderaiser/vk-crypt/raw/master/min/bookmarlkets/setPassword.min.js)
