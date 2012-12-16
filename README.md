@@ -6,7 +6,7 @@ VKCrypt
 
 Букмарклеты
 ========
-Для использования **VKCrypt** неоходимо создать 3 букмарклета:
+Для использования **VKCrypt** неоходимо [создать](http://www.youtube.com/watch?v=2c1aqpmvUzw "Как создать закладку?") 3 букмарклета:
 - Зашифровать [min/bookmarklets/encrypt.min.js](//raw.github.com/coderaiser/vkcrypt/master/min/bookmarlkets/encrypt.min.js)
 - Расшифровать [min/bookmarklets/decrypt.min.js](//github.com/coderaiser/vkcrypt/raw/master/min/bookmarlkets/decrypt.min.js)
 - Установить ключ [min/bookmarklets/setKey.min.js](//github.com/coderaiser/vkcrypt/raw/master/min/bookmarlkets/setKey.min.js)
@@ -46,6 +46,15 @@ VKCrypt
 (если не включен режим **Инкогнито**). Для шифрования используется алгоритм **AES**.
 
 Необходимые библиотеки загружаются при необходимости при первом обращении.
+
+Благодарности
+========
+Хочешь поблагодарить этих людей:
+- [Игорь Балацкий](http://vk.com/id75440132 "Игорь Балацкий")
+за создание [видео](//www.youtube.com/watch?v=2c1aqpmvUzw "Установка")
+и поддержке [группы](//vk.com/vkcrypt "Группа").
+- [Galymzhan Kozhayev](//github.com/galymzhan "Galymzhan Kozhayev")
+за [исправление опечаток](//github.com/coderaiser/vkcrypt/commit/73705948464f48e78fad213ebaeab1ed80bb3a37#README.md "Исправление Опечаток").
 
 Обратная связь
 ========
