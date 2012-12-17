@@ -1,6 +1,6 @@
 {
   "name": "vkcrypt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "Messages crypter for vk.com",
   "homepage": "https://github.com/coderaiser/vkcrypt",
