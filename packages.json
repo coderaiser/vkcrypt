@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "Messages crypter for vk.com",
-  "homepage": "https://github.com/coderaiser/vkcrypt",
+  "homepage": "https://coderaiser.github.com/vkcrypt",
   "repository": {
     "type": "git",
     "url": "git://github.com/coderaiser/vkcrypt.git"
