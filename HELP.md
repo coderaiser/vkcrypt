@@ -55,8 +55,7 @@ VKCrypt
 Хочется поблагодарить этих людей:
 
 - [Игорь Балацкий](http://vk.com/id75440132 "Игорь Балацкий")
-за создание [видео](http://www.youtube.com/watch?v=2c1aqpmvUzw "Установка")
-и поддержке [группы](http://vk.com/vkcrypt "Группа").
+за создание видео и поддержке [группы](http://vk.com/vkcrypt "Группа").
 - [Galymzhan Kozhayev](http://github.com/galymzhan "Galymzhan Kozhayev")
 за [исправление опечаток](http://github.com/coderaiser/vkcrypt/commit/73705948464f48e78fad213ebaeab1ed80bb3a37#README.md "Исправление Опечаток").
 
