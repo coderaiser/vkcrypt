@@ -8,9 +8,9 @@ VKCrypt
 ========
 Для использования **VKCrypt** неоходимо [создать](http://www.youtube.com/watch?v=2c1aqpmvUzw "Как создать закладку?") 3 букмарклета:
 
-- Зашифровать [min/bookmarklets/encrypt.min.js](http://coderaiser.github.io/vkcrypt/min/bookmarlkets/encrypt.min.js)
-- Расшифровать [min/bookmarklets/decrypt.min.js](http://coderaiser.github.io/vkcrypt/min/bookmarlkets/decrypt.min.js)
-- Установить ключ [min/bookmarklets/setKey.min.js](http://coderaiser.github.io/vkcrypt/min/bookmarlkets/setKey.min.js)
+- Зашифровать [min/bookmarklets/encrypt.min.js](http://coderaiser.github.io/vkcrypt/min/bookmarklets/encrypt.min.js)
+- Расшифровать [min/bookmarklets/decrypt.min.js](http://coderaiser.github.io/vkcrypt/min/bookmarklets/decrypt.min.js)
+- Установить ключ [min/bookmarklets/setKey.min.js](http://coderaiser.github.io/vkcrypt/min/bookmaklets/setKey.min.js)
 
 То есть создать три вкладки, в каждую из которых вставить содержимое указанных файлов в поле URL.
 
